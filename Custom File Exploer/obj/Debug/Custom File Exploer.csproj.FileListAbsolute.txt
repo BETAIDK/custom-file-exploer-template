@@ -1,0 +1,10 @@
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\bin\Debug\Custom File Exploer.exe.config
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\bin\Debug\Custom File Exploer.exe
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\bin\Debug\Custom File Exploer.pdb
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\obj\Debug\Custom File Exploer.csproj.AssemblyReference.cache
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\obj\Debug\Custom_File_Exploer.Form1.resources
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\obj\Debug\Custom_File_Exploer.Properties.Resources.resources
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\obj\Debug\Custom File Exploer.csproj.GenerateResource.cache
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\obj\Debug\Custom File Exploer.csproj.CoreCompileInputs.cache
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\obj\Debug\Custom File Exploer.exe
+D:\Delovaper\C#\Custom exploer\Custom File Exploer\Custom File Exploer\obj\Debug\Custom File Exploer.pdb
